@@ -215,3 +215,94 @@ footer a:hover {
     content: "not available";
     color: rgb(231, 255, 160);
 }
+
+  /* assignment2
+------------------------------------*/
+.analysis-item img {
+    margin-right: 20px;
+    width: 400px;
+    float: left;
+}
+
+.analysis-item {
+    overflow: hidden;
+}
+
+.analysis {
+    background: #eeeeee42;
+}
+
+.analysis h2 {
+    color: #333;
+    font-size: 32px;
+    margin-bottom: 16px;
+    font-weight 500;
+}
+
+ .analysis p {
+  font-size: 18px;
+}
+
+.analysis h3 {
+    margin-bottom: 8px;
+    font-size: 18px;
+    color: #666;
+ }
+
+.analysis p{
+    margin-bottom: 8px;
+    padding-bottom: 8px;
+    font-weight: 500;
+    line-height: 135%;    
+}
+
+.analysis p{
+    margin-bottom: 8px;
+    padding-bottom: 8px;
+    font-weight: 500;
+    line-height: 135%;    
+}
+
+.explaination h2 {
+    color: #333;
+    font-size: 32px;
+    margin-bottom: 16px;
+    font-weight 500;
+}
+
+ .explaination p {
+  font-size: 18px;
+}
+
+.explaination h3 {
+    margin-bottom: 8px;
+    font-size: 18px;
+    color: #666;
+ }
+
+.explaination p{
+    margin-bottom: 8px;
+    padding-bottom: 8px;
+    font-weight: 500;
+    line-height: 135%;    
+}
+
+.explaination-item {
+    overflow: hidden;
+}
+.explaination-item img {
+    margin-left: 20px;
+    width: 200px;
+    float: right;
+}
+
+
+.Recommendation-item img {
+    margin-right: 20px;
+    width: 600px;
+    float: center;
+}
+
+.Recommendation-item {
+    overflow: hidden;
+}s
